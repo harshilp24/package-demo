@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "682eabef56b6b44ae7696ae4_0ca0de33-1f79-48dd-89f1-1a9b8c3a9049",
+  "moduleUUID": "c85a1f0b-c148-443e-b4c8-21ec03557902",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "dhxtxzlktm",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
